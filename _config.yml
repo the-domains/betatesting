@@ -1,0 +1,14 @@
+layout_spectrum: 0.6840440989471972
+typography_spectrum: 0.34595908829942346
+color:
+  brandStrength: 0.6173899858258665
+  lightness: 0.5623042867518961
+  saturation: 0.4683383135125041
+  rhythmicContrast: 0.28907650779001415
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: BetaTesting
